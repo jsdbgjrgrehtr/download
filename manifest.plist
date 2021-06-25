@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.shdwbigisn.newisn</string>
+                <string>com.wzylbigisn.newisn</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>2.2.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>FanweApp</string>
+                <string>万众</string>
             </dict>
         </dict>
     </array>
